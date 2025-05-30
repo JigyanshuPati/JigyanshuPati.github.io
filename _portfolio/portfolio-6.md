@@ -1,6 +1,6 @@
 ---
 title: "Bearing Fault Classification using Machine Learning"
-excerpt: "Built a supervised learning pipeline to classify bearing defects using FFT-processed vibration signals<br/><img src='Screenshot 2025-05-30 at 7.18.53 PM.png'>"
+excerpt: "Built a supervised learning pipeline to classify bearing defects using FFT-processed vibration signals<br/><img src='/images/Screenshot 2025-05-30 at 7.18.53 PM.png'>"
 collection: portfolio
 ---
 
