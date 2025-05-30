@@ -13,7 +13,7 @@ title                    : "Jigyanshu Pati"
 title_separator          : "-"
 name                     : &name "Jigyanshu Pati"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://JigyanshuPati.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,14 +24,13 @@ author:
   # Biographic information
   avatar           : "profile_pic.png"
   name             : "Jigyanshu Pati"
-  pronouns         : # example: "she/her"  
-  bio              : "Third-year Mechanical Engineering undergraduate"
-  location         : "Kharagpur"
-  employer         : "IIT Kharagpur"
+  pronouns         : "he/him"  
+  bio              : "I’m a fourth-year Mechanical Engineering student at IIT Kharagpur who loves mixing math, machines, and a bit of machine learning magic to solve tricky engineering puzzles!"
+  employer         : "Indian Institute of Technology, Kharagpur"
   uri              : # URL
   email            : "jigyanshu.pati@kgpian.iitkgp.ac.in" 
 
-   # Academic websites
+  # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
@@ -75,7 +74,6 @@ author:
   # xing             : # Username
   # youtube          : # Username
   # zhihu            : # Username
-
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
