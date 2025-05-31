@@ -1,6 +1,6 @@
 ---
 title: "PotterGPT: Character-level Transformer"
-excerpt: "Minimal GPT-style transformer implemented in PyTorch<br/><img src='/images/image (1).png'>"
+excerpt: "Minimal GPT-style transformer implemented in PyTorch<br/><img src='/images/image (1).png' width='500' height='300'>"
 collection: portfolio
 ---
 
