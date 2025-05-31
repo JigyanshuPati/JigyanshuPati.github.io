@@ -1,6 +1,6 @@
 ---
 title: "Physics-Informed Neural Networks for Falkner–Skan Flow"
-excerpt: "Implemented a PINN-based solver to learn boundary layer velocity profiles governed by the RANS equations<br/><img src='/images/Screenshot 2025-05-29 at 4.54.49 PM.png'>"
+excerpt: "Implemented a PINN-based solver to learn boundary layer velocity profiles governed by the RANS equations<br/><img src='/images/Screenshot 2025-05-29 at 4.54.49 PM.png' width='500' height='300'>"
 collection: portfolio
 ---
 

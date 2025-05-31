@@ -1,6 +1,6 @@
 ---
 title: "Garage Door Mechanism Design and Optimization"
-excerpt: "Designed and simulated a four-bar linkage mechanism for a garage door using SolidWorks and MATLAB<br/><img src='/images/Screenshot 2025-05-29 at 5.02.19 PM.png'>"
+excerpt: "Designed and simulated a four-bar linkage mechanism for a garage door using SolidWorks and MATLAB<br/><img src='/images/Screenshot 2025-05-29 at 5.02.19 PM.png' width='500' height='300'>"
 collection: portfolio
 ---
 
