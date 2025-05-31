@@ -1,6 +1,6 @@
 ---
 title: "3-DoF Robotic Arm Kinematics Simulation"
-excerpt: "Simulated a 3-DoF robotic arm using SolidWorks and MATLAB for trajectory tracking and motion validation<br/><img src='/images/3DoF Robot isometric view.PNG'>"
+excerpt: "Simulated a 3-DoF robotic arm using SolidWorks and MATLAB for trajectory tracking and motion validation<br/><img src='/images/3DoF Robot isometric view.PNG' width='500' height='300'>"
 collection: portfolio
 ---
 
