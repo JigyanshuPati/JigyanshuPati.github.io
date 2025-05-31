@@ -1,6 +1,6 @@
 ---
 title: "Phishing URL Detection using Multi-input LSTM"
-excerpt: "Developed a deep learning pipeline to classify URLs as benign or phishing by combining character-level LSTM sequences with engineered URL features like abnormal character counts.<br/><img src='/images/phishing_url_demo.png'>"
+excerpt: "Developed a deep learning pipeline to classify URLs as benign or phishing by combining character-level LSTM sequences with engineered URL features like abnormal character counts.<br/><img src='/images/download.png'>"
 collection: portfolio
 ---
 
