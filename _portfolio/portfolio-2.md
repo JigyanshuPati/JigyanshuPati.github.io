@@ -1,6 +1,6 @@
 ---
 title: "Research Paper Recommender System"
-excerpt: "A hybrid NLP system that recommends research papers based on abstract similarity and citation graphs<br/><img src='/images/Screenshot 2025-05-29 at 4.25.21 PM.png'>"
+excerpt: "A hybrid NLP system that recommends research papers based on abstract similarity and citation graphs<br/><img src='/images/Screenshot 2025-05-29 at 4.25.21 PM.png' width='500' height='300'>"
 collection: portfolio
 ---
 
