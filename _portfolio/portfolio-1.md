@@ -9,7 +9,7 @@ We develop a minimal character-level transformer model entirely from scratch usi
 - Autoregressive text generation training
 This implementation serves both as a practical introduction to transformer internals and as a baseline model for experimentation. It is trained on a simple bigram dataset to illustrate sequential prediction and text synthesis from scratch."
 
-img:  image (1).png
+img: /images/image (1).png
 collection: portfolio
 date: 2025-06-04
 ---
