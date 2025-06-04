@@ -1,6 +1,6 @@
 ---
 title: "PotterGPT: Character-level Transformer"
-excerpt: "We develop a minimal character-level transformer model built from scratch in PyTorch. The model demonstrates core components of GPT-style architectures including token embedding, self-attention, positional encoding, and autoregressive training. A simple bigram dataset is used to illustrate text generation capabilities.
+excerpt: "I developed a minimal character-level transformer model built from scratch in PyTorch. The model demonstrates core components of GPT-style architectures including token embedding, self-attention, positional encoding, and autoregressive training. A simple bigram dataset is used to illustrate text generation capabilities.
 We develop a minimal character-level transformer model entirely from scratch using PyTorch. The model architecture reflects the core principles of modern transformer-based language models and includes:
 - Learnable token embeddings
 - Multi-head self-attention layers
